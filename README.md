@@ -14,7 +14,7 @@
   <img align="center" alt="MYSQL" src="https://img.shields.io/badge/MySQL-2E8BC0?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div> <br>
 
-[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Purolinho&theme=tokyonight)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Purolinho&theme=tokyonight)
 
 ## Tecnologias que pretendo estudar e ter conhecimento sobre:
  <div style="display_inline_block"><br/>
@@ -22,4 +22,3 @@
   <img align="center" alt="HTML" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img align="center" alt="HTML" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=whit"/>
  </div> <br>
- 
