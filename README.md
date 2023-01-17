@@ -14,7 +14,7 @@
   <img align="center" alt="MYSQL" src="https://img.shields.io/badge/MySQL-2E8BC0?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div> <br>
 
-[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/Purolinho/github-readme-stats)
+[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Purolinho&theme=tokyonight)
 
 ## Tecnologias que pretendo estudar e ter conhecimento sobre:
  <div style="display_inline_block"><br/>
