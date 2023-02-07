@@ -2,7 +2,7 @@
   Me Interesso por tecnologia e programação 🐱‍💻 <br>
   Cursando atualmente: Ensino médio <br>
   
-![Purolinho stats](https://github-readme-stats.vercel.app/api?username=Purolinho&show_icons=true&theme=dracula)
+![CAP stats](https://github-readme-stats.vercel.app/api?username=&Joao-Sant-Anashow_icons=true&theme=dracula)
 
 ## Teconlogias que uso diariamente e que estou me aprofundando:
 
