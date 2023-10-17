@@ -22,5 +22,7 @@
  <div style="display_inline_block"><br/>
   <img align="center" alt="HTML" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
   <img align="center" alt="HTML" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img align="center" alt="HTML" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=whit"/>
+  <img align="center" alt="HTML" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img align="center" alt="HTML" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img align="center" alt="HTML" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
  </div> <br>
