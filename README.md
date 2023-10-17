@@ -13,6 +13,7 @@
   <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   <img align="center" alt="MYSQL" src="https://img.shields.io/badge/MySQL-2E8BC0?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=green"/>
+  <img align="center" alt="Node" src="https://camo.githubusercontent.com/7d7b100e379663ee40a20989e6c61737e6396c1dafc3a7c6d2ada8d4447eb0e4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e6f64652e6a732d3644413535463f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6f64652e6a73266c6f676f436f6c6f723d7768697465"/>
 </div> <br>
 
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Purolinho&theme=tokyonight)
