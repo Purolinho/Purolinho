@@ -1,8 +1,6 @@
 ### Olá Eu sou o Gabriel Henrique 
   Me Interesso por tecnologia e programação 🐱‍💻 <br>
   Cursando atualmente: Ensino Médio Integrado com Curso Técnico em Informática<br>
-  
-![Purolinho stats](https://github-readme-stats.vercel.app/api?username=Purolinho&show_icons=true&theme=dracula)
 
 ## Teconlogias que uso diariamente e que estou me aprofundando:
 
