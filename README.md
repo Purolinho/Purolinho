@@ -14,7 +14,6 @@
   <img align="center" alt="MYSQL" src="https://img.shields.io/badge/MySQL-2E8BC0?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=green"/>
   <img align="center" alt="Node" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img align="center" alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
   <br>
   <br>
 </div>
