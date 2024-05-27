@@ -16,7 +16,7 @@
   <br>
 </div>
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Purolinho&theme=tokyonight)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=purolinho&layout=compact)
 
 ## Tecnologias que pretendo estudar e ter conhecimento sobre:
  <div style="display_inline_block"><br/>
